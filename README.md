@@ -6,4 +6,4 @@
 
 ## 🚀 Projeto
 
-- [Projeto Acadêmico](https://github.com/beatrizbertodo/projeto-acadêmico): site de uma mini biblioteca com PHP e banco de dados
+- [Projeto Acadêmico](https://github.com/beatrizbertodo/projeto-academico): site de uma mini biblioteca com PHP e banco de dados
